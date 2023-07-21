@@ -28,8 +28,7 @@ ami-nginx = "ami-026ebd4cfe2c043b2"
 
 ami-sonar = "ami-026ebd4cfe2c043b2"
 
-keypair = "Jemine-EC4"
-
+keypair = "Jemine-EC5"
 
 account_no = 894194274688
 
